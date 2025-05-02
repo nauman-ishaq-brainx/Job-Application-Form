@@ -53,7 +53,7 @@ label {
     margin-bottom: 15px;
 }
 .resume-input {
-    margin-left:  327px;
+    margin-left:  330px;
      height: 30px;
       border: 
      1px solid rgb(141, 129, 129); 
@@ -66,19 +66,19 @@ label {
 }
 .address-subtext {
     font-size: 10px;
-    margin-left: 500px;
+    margin-left: 510px;
     margin-top: 2px;
 }
 
 .country {
-    margin-left: 388px;
+    margin-left: 398px;
     border:  1px solid rgb(141, 129, 129); 
 }
 
 #country {
     width: 300px;
     height: 25px;
-    margin-left: 388px;
+    margin-left: 393px;
     margin-bottom: 15px;
 }
 
